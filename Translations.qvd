@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>12451</QvBuildNo>
+   <CreatorDoc>D:\GDrive\_Gorilla Insights\Developer\Solutions\Store datamodel snapshot\Store datamodel snapshot.qvw</CreatorDoc>
+   <CreateUtcTime>2014-12-25 21:24:11</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>Translations</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>Index</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>119</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>595</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>English</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>119</NoOfSymbols>
+       <Offset>595</Offset>
+       <Length>2419</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Japanese</FieldName>
+       <BitOffset>16</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>112</NoOfSymbols>
+       <Offset>3014</Offset>
+       <Length>2851</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>French</FieldName>
+       <BitOffset>55</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>0</NoOfSymbols>
+       <Offset>5865</Offset>
+       <Length>0</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>German</FieldName>
+       <BitOffset>24</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>117</NoOfSymbols>
+       <Offset>5865</Offset>
+       <Length>2843</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Portuguese</FieldName>
+       <BitOffset>32</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>119</NoOfSymbols>
+       <Offset>8708</Offset>
+       <Length>2943</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Spanish</FieldName>
+       <BitOffset>40</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>119</NoOfSymbols>
+       <Offset>11651</Offset>
+       <Length>3092</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Bulgarian</FieldName>
+       <BitOffset>48</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>115</NoOfSymbols>
+       <Offset>14743</Offset>
+       <Length>4632</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>7</RecordByteSize>
+   <NoOfRecords>120</NoOfRecords>
+   <Offset>19375</Offset>
+   <Length>840</Length>
+   <Lineage>
+     <LineageInfo>
+       <Discriminator>D:\GDrive\_Gorilla Insights\Developer\Solutions\Store datamodel snapshot\executive dashboard.qvw</Discriminator>
+       <Statement>Binary</Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ARSummary-1.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ARSummary.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\AccountGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\AccountMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Accounts.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Budget.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Calendar.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ChannelMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerAddressMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerMap.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Expenses.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\FactTable.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\HistoryFlag.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\InventoryBalances.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ItemBranchMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ItemMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductSubGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductTypeMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\SalesRepMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Translations.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+   </Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+                         	   
+                                                                      !   "   #   $   %   &   '   (   )   *   +   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   @   A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   _   `   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   KPI Dashboard Sales Analysis About XXXX YTD Search Revenue vs Budget Revenue vs Last Year Expenses: % of Sales Expenses vs Target AR: % Overdue AR: Day Sales O/S Inventory: Turns per Year % in Inventory Sales Expenses Receivables Inventory Total Target Variance Trending Revenue over time Revenue and Expenses Revenue Month Year % of Sales Current Selections Clear Selections Region Segment Sales Rep Sales Overview "What-if?" Pricing Analysis Order Details Monthly Sales & Margin Margin Margin % Product profitability 80:20 % to Budget Variance to XXXX % to XXXX Products Margin % Sales Margin % Total Margin % Cumulative No. of Customers As of: 5/31/2012 Expenses: Actual vs Budget Expenses XXXX Budget Expenses as % Sales Account Group Desc Account Desc Customer What if Price What if Cost What if Volume Margin change What if Revenue What if Margin Price Volume Number of Orders Order # Order Date Invoice # Description Sales Qty Sales Price Product Group Product Sub Group Product Description Group Account Cost Centre Report ($000s) Var Budget Var % Budget Var XXXX Var % XXXX Receivables as of: 5/31/2012 Amount Overdue & DSO Order Totals DSO AR Ledger Open Amount Overdue Amount % Overdue Current 1-30 Days 31-60 Days 60+ Days Inventory Turns and Values Inventory Profile On Time Delivery Inventory on Hand Report Value Turns Turns per year Product Type Inventory Units Inventory Value Inventory Turns Class Turns % of items Number of Items About this demo Targeted Audience Data Sources Analysis Examples Report Executuve Dashboard is targeted for primarily CFOs  providing them with a a high level look at the company with the ability to drill down into the business details if desired. This application contained the following type of data: Accounts receivables Use the Executive Dashboard to perform various analysis such as: Monitor revenue by segment, region and sales rep. Perform what-if pricing analysis to see how changes in volume, price and/or cost will affect the margin. Make sure expenses are within budget. Monitor AR ledger and DSO (Days Sales Outstanding) to determine payment patterns of customers. Know which products are inventory and their value. A report is available in this application.  The report reflects your selections and are useful when you need a paper copy. KPIダッシュボード 販売分析 デモアプリ情報 2012年　本日まで 検索 売上 vs 予算 売上 vs 前年 費用: 売上比 費用 vs 目標 売掛金: 延滞率 売掛金: 回収期間 在庫:　回転／年 在庫に占める％ 売上 費用　 売掛金 在庫 合計 達成目標 差異 売上の時系列推移 売上と費用 月／年 売上比 現在の選択条件 選択条件のクリア 地域 セグメント 営業担当者 販売概要 "What-if?"価格設定分析 注文詳細 月間売上 & 利益 利益　 利益率 製品収益性 80:20 予算との差異比率 2011年との差異 2011年との差異比率 製品 売上利益率 合計利益率 累計利益率 顧客数 データ更新:
+DD/MM/YYYY 費用: 実績 vs 予算 費用 2012 予算　 売上に対する費用構成比 勘定グループ 勘定項目 顧客 What If 価格 What If 費用 What If 販売数量 利益変化率 What If 売上 What If 利益 価格 販売数量 注文数 注文No. 注文日 請求書No. 明細 販売価格 製品グループ 製品サブグループ 製品詳細 グループ コストセンター・レポート(千ドル） 予算との差異 31/05/2012 未払額 & 回収期間 注文集計 売掛金回収期間 売掛金元帳 未決済額 未払額 未払比率 残高 1～30日 30～60日 60日超 在庫回転率と金額 在庫構成 オンタイム・デリバリー率 在庫レポート 評価額 回転率 回転率/年 製品タイプ 在庫数量 在庫評価額 在庫回転率 製品種別回転率 品目比率 品目数 本デモアプリについて 対象ユーザー データソース 分析例 レポート Executive Dashboardは、主にCFO（Chief Financial Officer）を対象としたものです。必要に応じてビジネスの詳細までドリルダウンできる機能を持ち、企業に対するハイレベルな検証を提供します。 このアプリケーションには、次の種類のデータが含まれています。 Executive Dashboardを使用すると、次のような様々な分析を行えます。 セグメント別、地域別、営業担当者別に売上をモニターする。 what-if 価格設定分析を行い、数量、価格、費用の変動がいかに利益に影響を及ぼすかを把握する。 費用が予算内に収まっているかを確認する。 顧客の支払いパターンを決定するために、売掛金元帳とDSO（売掛金回収期間）をモニターする。 どの製品が在庫になっているかを知り、その金額を知る。 このアプリケーションでは帳票が作成できます。選択項目が反映されますので、紙での帳票が必要な時に便利です。 KPI-Dashboard Umsatz-Analyse Über lfd. Jahr XXXX Suchen  Ertrag vs Budget Ertrag vs Vorjahr Kosten: % des Umsatzes Kosten vs Ziel Forderungen: % überfällig  Forderungen: ausstehender Tagesumsatz Bestandsschlag pro Jahr % des Bestands Umsatz Kosten Forderungen Bestand Gesamt Ziel Abweichung Umsatztrend Ertrag und Kosten Ertrag Monat Jahr % des Umsatzes Aktuelle Selektionen  Selektionen löschen  Region Segment Account Manager Übersicht Umsatz "Was-wäre-wenn?"-Preisanalyse Bestellungsdetails Monatliche Verkäufe & Marge Marge Marge % Produkt-Profitabilität 80:20 % des Budgets Abweichung zu XXXX % zu XXXX Produkte Marge %Umsatz Margin % Gesamt Margin % kumuliert Anzahl der Kunden Stand vom: 5/31/2012 Kosten: Tatsächlich vs Budget Kosten XXXX Budget Kosten in % Umsatz Beschreibung Account-Gruppe Beschreibung Account Kunde Was-wäre-wenn-Preis Was-wäre-wenn-Kosten Was-wäre-wenn-Menge Margenwechsel Was-wäre-wenn-Ertrag Preis Menge Anzahl der Bestellungen Bestellung Nr.  Bestelldatum Rechnung Nr.  Beschreibung  Verkaufsmenge Verkaufspreis Produktgruppe Produktuntergruppe Produktbeschreibung Gruppe Konto Kostencenter-Report ($000s) Value-at-Risk-Budget Value-at-Risk % Budget  Value-at-Risk XXXX Value-at-Risk % XXXX Forderungen Stand vom: 5/31/2012 Überfällige Beträge & ausstehender Tagesumsatz (DSO) Gesamtbestellungen ausstehender Tagesumsatz (DSO) Debitorenkrtei Offene Beträge Überfällige Beträge % überfällig Aktuell 1-30 Tage 31-60  Tage 60+  Tage Bestandsumschlag und Werte Bestandsprofil Termingenaue Lieferung  Report Lagerbestand Wert Umschlag Umschlag pro Jahr Produkttyp Bestandseinheiten Bestandswert Bestandsumschlag Class Turns % der Artikel Anzahl der Artikel Über diese Demo-Version Zielgruppe Datenquellen Analysebeispiele Report Das Executuve Dashboard wurde vor allem für CFOs entwickelt, um diesen sowohl einen einfachen Überblick über das Unternehmen als auch die Möglichkeit detaillierter Ansichten zu ermöglichen.  Die Applikation beinhaltet folgende Daten:  Mit dem Executive Dashboard können Sie beispielsweise folgende Analysen durchführen:  Betrachtung der Erträge nach Branche, Region und Account Manager   Durchührung von Was-wäre-Wenn-Preisanalysen um zu sehen, wie Änderungen Menge, Preis und/oder Kosten die Marge verändern. Sicherstellen, dass sich die Kosten innerhalb des Budgets bewegen.  Betrachtung der Debitorenkartei und der (Days Sales Outstanding), um  das zahlungsmuster der Kunden zu bestimmen. Sehen, welche Produkte vorrätig sind und wie hoch deren Wert ist. Innerhalb dieser Appikation können Sie einen Report erstellen. Dieser zeigt ihre Selektionen und kann Ihnen von Nutzen sein, falls Sie eine ausgedruckte Version benötigen.  Quadro de monitorização de KPI Análise de vendas Sobre XXXX até à data Pesquisa Receita vs Orçamento Receita vs Ano anterior Despesas: % de vendas Despesas vs Objectivo Contas a receber: % em atraso Contas a receber: Dias de Vendas pendentes Inventário: rotação por ano % em Inventário Vendas Despesas Valores a receber Inventário Total Objectivo Variância Tendência da receita ao longo do tempo Receitas e Despesas Receita Mês ano % de vendas Selecções actuais Limpar selecções Região Segmento Representante de vendas Panorama de vendas Análise de preços "What-if?" Pormenores da encomenda Margem e vendas mensais Margem  % de margem Rentabilidade de produto 80:20 % para o orçamento Variância para XXXX % para XXXX Produtos % de margem nas vendas % de margem no total % de margem cumulativa Número de clientes A partir de: 31/05/2012 Despesas: Reais vs Orçamento Despesas XXXX Orçamento Despesas como % de vendas Desc de Conta de Grupo Desc de Conta Cliente Preço What if Custo What if Volume What if Alteração de margem Receita What if Margem What if Preço Volume Número de encomendas Encomenda n.º Data da encomenda Factura n.º Descrição Qtd vendas Preço de venda Grupo do produto Sub-grupo do produto Descrição do produto Grupo  Conta Relatório do centro de custos ($000s) Orçamento Var % Var Orçamento Var XXXX % Var XXXX Valores a receber a partir de 31/05/2012 Valor em atraso e DSO Totais de encomenda DSO Livro de Contas a Receber Valor em aberto Valor em atraso % em atraso Corrente 1-30 dias 31-60 dias 60+ dias Valores e rotação de inventário Perfil do inventário Entrega atempada Relatório de inventário disponível Valor Rotações Rotações por ano Tipo de produto Unidades de inventário Valor do inventário Rotações de inventário Rotações de classe % de itens Número de itens Sobre esta demo Público-alvo Fontes de dados Exemplos de análises Relatório O Quadro de Monitorização Executivo destina-se sobretudo a directores financeiros, oferecendo-lhes uma visão de alto nível da empresa com a possibilidade de pesquisar os pormenores do negócio, se desejado. A aplicação contém o seguinte tipo de dados: Contas a receber Utilize o quadro de monitorização para executar várias análises como: Controle a receita por segmento, região e representante de vendas. Execute análises de preço what-if para verificar como alterações de volume, preço e/ou custo afectarão a margem. Certifique-se de que as despesas estão dentro do orçamento. Controle o livro de Contas a Receber e o DSO para determinar padrões de pagamento de clientes. Saiba que produtos estão em inventário e o seu valor. Está disponível um relatório nesta aplicação. O relatório reflecte as suas selecções, sendo útil quando precisa de uma cópia em papel. Cuadro de Mando de KPIs Análisis de Ventas Acerca de XXXX YTD Buscar Ingresos vs Presupuesto Ingresos vs Año Anterior Gastos: % de Ventas Gastos vs Objetivo % Vencido y no Cobrado Período medio de cobro en Días Inventario: Rotaciones anuales % en Inventario Ventas Gastos Pendiente de cobro Inventario Total Objetivo Diferencia Evolución de Ingresos en el tiempo Ingresos y Gastos Ingresos Mes Año % de Ventas Selecciones Actuales Borrar Selecciones Región Segmento Vendedor Vista General Ventas Análisis What-if? de Precios Detalles de Pedido Ventas al mes y Margen Margen % Margen Rentabilidad de Producto 80:20 % de Presupuesto Varianza en XXXX % XXXX Productos Margen % Ventas Total % Margen % Margen acumulado Nº de clientes A día de: 31/05/2012 Gastos: Real vs Presupuesto Gastos XXXX Presupuesto Gastos sobre % de Ventas Descr. de Grupo Contable Descr. de Cuenta Cliente What if-Precio What if-Coste What if-Volumen Variación de margen What if-Ingresos What if-Margen Precio Volumen Número de Pedidos # Pedido Fecha Pedido # Factura Descripción Cant. ventas Precio ventas Grupo de Producto Subgrupo de Producto Descripc. de Producto Grupo Cuenta Informe del Centro de Costes ($000s) Var Presupuesto Var % Presupuesto Var XXXX Var % XXXX Pendientes de cobro a día de: 31/05/2012 Cantidad vencida y Periodo medio de cobro Total Pedidos Periodo medio de cobro Libro Cuentas Pendientes de cobro Importe abierto Importe vencido % Vencido Actual 1-30 Días 31-60 Días 60+ Días Rotaciones y Valores de Inventario Perfil de Inventario Entrega a tiempo Informe de Existencias Valor Rotaciones Rotaciones por año Tipo Producto Unidades de Inventario Valor de Inventario Rotaciones de Inventario Rotaciones de categorías % de existencias Nº de productos Acerca de esta demo Audiencia destino Fuentes de datos Ejemplos de análisis Informe El Cuadro de Mando Ejecutivo va dirigido principalmente a Directores y Controladores Financieros, ofreciéndoles una vista global de alto nivel de toda la empresa al tiempo que les permite profundizar en los detalles de análisis que deseen. Esta aplicación contiene los siguientes tipos de datos: Cuentas pendientes de cobro Utilice el Cuadro de Mando Ejecutivo para efectuar diversos tipos de análisis, por ejemplo: Monitorice los ingresos por segmento, región y agente de ventas. Efectúe análisis probabilístico (o análisis what-if) de casos o escenarios  de precios para ver de qué manera afectará al margen cualquier cambio en el  volumen, los precios y/o costes. Asegúrese de que los gastos se hallan dentro de lo presupuestado. Monitorice las cuentas pendientes de cobro y los períodos de cobro, a fin de determinar los patrones de pago que siguen sus clientes. Sepa qué productos se hallan en el inventario y qué valor tienen. Esta aplicación genera un informe que refleja todas sus selecciones y que está disponible por si desea consultarlo o imprimirlo para tener una copia impresa en papel.   Kлючови бизнес показатели Анализ Продажби За приложението XXXX YTD Търсене Приходи спрямо бюджет Приходи спрямо предишна година Разходи: % от Продажби Разходи спрямо таргет Вземания: % Просрочия Вземания: Дни до падеж Склад: Годишна обръщаемост % на склада Продажби Разходи Вземания Склад Общо Таргет Разлика Тенденции оборот във времето Приходи и разходи Приходи Месец Година % от Продажби Актуални селекции Изчисти селекциите Регион Сегмент Търговец Преглед на продажби Ценови Анализ "Какво, ако?" Детайли по поръчки Месечни продажби & марж Марж % Марж Рентабилност по продукти 80:20 % от Бюджет Разлика спрямо ХХХХ % от ХХХХ Продукти Марж % от Продажби Марж % Общо Марж % Кумулативен Брой клиенти На: 31/05/2012 Разходи: Текущи спрямо бюджет Разходи XXXX Бюджет Разходи като % от продажби Група сметки Сметка Клиент Цена "Какво, ако?"  Разходи "Какво, ако?"  Обем "Какво, ако?" Промяна в маржа Приходи "Какво, ако?"  Марж "Какво, ако?"  Цена Обем Брой Поръчки Поръчка № Дата на Поръчка Фактура № Описание Количество  Продуктова група Продуктова подкатегория Описание на продукт Група Справка Разходен център  ($000s) Var Бюджет Var % Бюджет Var XXXX Var % XXXX Вземания към 31/05/2012 Просрочена сума & Дни до падеж Общо поръчки Дни до падеж Отворена сума Просрочена сума % Просрочие Текущи 1-30 дни 31-60 дни 60+ дни Складова обръщаемост и стойност Профил на материалните запаси Навременни доставки Справка наличност на материалните Стойност Обръщаемост Годишна обръщаемост Вид Продукт Брой Продукти на Склад Стойност на материалните запаси Складова обръщаемост Обръщаемост по категории %  Артикули Брой Артикули За това демо приложение За кой е предназначено демото? Източници на данни Примерни анализи Справка Executive Dashboard  е предназначен главно за финансови межиджъри, като им предлага възможност за глобален поглед над компанията и задълбочен анализ на различни детайли.  Това приложение съдържа следните типове данни: Използвайте Executive Dashboard, за да извършите следните анализи: Наблюдавайте приходите по сегмент, регион и търговец Извършване на ценови " Какво, ако?" анализ , за да видите как разликите в обем, цена и/или разход ще  повлияят на маржа Убедете се, че разходите са в рамките на бюджета Наблюдавайте вземанията и средния период за събиране на вземанията, за да установите тендециите на плащане от клиентите Разберете кои продукти са налични на склад и каква е тяхната стойност Това приложение генерира справка, която отразява всичките направени селекции, в случай че искате да ги имате на хартиен носител 							
+
+
+
+
+
+
+      !! !!!!""!""""##"####$$#$$$$%%$%%%%&&%&&&&''&''''(('(((())())))**)****++*++++,,+,,,,--,----..-....//.////00/0000110111122122223323333443444455455556656666776777788788889989999::9::::;;:;;;;<<;;<<<==<<===>>==>>>??>>???@@??@@@AA@@AAABBAABBBCCBBCCCDD=CDDDEECDEE=FFDEFFEGGEFGGFHHFGHHGIIGHIIHJJ4IJJ5KKHJKKILLIKLLJMM&LMMKNN'MNNLOO(NOOMPPJOPPNQQKPQQORRLQRRPSSMRSSQTTNSTTUUOTUURVVPUVVSWWQVWWTXXRWXXUYYSXYYVZZTYZZW[[UZ[[X\\V[\\Y]]W\]]Z^^X]^^[__Y^__\``Z_``]aa[`aa^bb\abb_cc]bcc`dd^cddaee_deebff`effcggafggdhhbghheiichiifjjdijjgkkejkkhllfkllimmglmmjnnhmnnkooinoolppjoppmqqqqrrkprrnsslqssottmrttpuunsuuqvvotvvrwwpuwwsxxqvxxt       

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>12451</QvBuildNo>
+   <CreatorDoc>D:\GDrive\_Gorilla Insights\Developer\Solutions\Store datamodel snapshot\Store datamodel snapshot.qvw</CreatorDoc>
+   <CreateUtcTime>2014-12-25 21:24:11</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>CustomerMaster</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>Address Number</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>130</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>650</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$key</String>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Business Family</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>6</NoOfSymbols>
+       <Offset>650</Offset>
+       <Length>24</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Segment</FieldName>
+       <BitOffset>16</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>8</NoOfSymbols>
+       <Offset>674</Offset>
+       <Length>32</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$key</String>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Customer</FieldName>
+       <BitOffset>30</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>130</NoOfSymbols>
+       <Offset>706</Offset>
+       <Length>1964</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Customer Number</FieldName>
+       <BitOffset>38</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>130</NoOfSymbols>
+       <Offset>2670</Offset>
+       <Length>650</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Customer Type</FieldName>
+       <BitOffset>54</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>3320</Offset>
+       <Length>8</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Distribution Channel Mgr</FieldName>
+       <BitOffset>46</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>5</NoOfSymbols>
+       <Offset>3328</Offset>
+       <Length>20</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Division</FieldName>
+       <BitOffset>55</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>3348</Offset>
+       <Length>10</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Phone</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>3358</Offset>
+       <Length>14</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Region Code</FieldName>
+       <BitOffset>52</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>4</NoOfSymbols>
+       <Offset>3372</Offset>
+       <Length>20</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Regional Sales Mgr</FieldName>
+       <BitOffset>19</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>15</NoOfSymbols>
+       <Offset>3392</Offset>
+       <Length>69</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Zone Mgr</FieldName>
+       <BitOffset>49</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>6</NoOfSymbols>
+       <Offset>3461</Offset>
+       <Length>30</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Sales Rep</FieldName>
+       <BitOffset>24</BitOffset>
+       <BitWidth>6</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>38</NoOfSymbols>
+       <Offset>3491</Offset>
+       <Length>190</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$key</String>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>7</RecordByteSize>
+   <NoOfRecords>130</NoOfRecords>
+   <Offset>3681</Offset>
+   <Length>910</Length>
+   <Lineage>
+     <LineageInfo>
+       <Discriminator>D:\GDrive\_Gorilla Insights\Developer\Solutions\Store datamodel snapshot\executive dashboard.qvw</Discriminator>
+       <Statement>Binary</Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\AccountGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\AccountMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Accounts.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Budget.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerAddressMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerMap.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Expenses.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\FactTable.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\HistoryFlag.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\InventoryBalances.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ItemBranchMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ItemMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductSubGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductTypeMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\SalesRepMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+   </Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+ §˜ L¼˜ BÆ˜ 	Ç˜ 1Ô˜ L×˜ "Ú˜ $Ü˜ é˜ mê˜ ,î˜ 8î˜ R˜˜ +¼˜ Ã˜ Ù˜ <ä˜ bì˜ Fõ˜ Rù˜ 2û˜ ¼˜ `å˜ oğ˜ ,ñ˜ Vô˜ Jø˜ #ù˜  §˜ 8¼˜ kñ˜ nş˜ [ÿ˜ !ã˜ `í˜ "î˜ Vû˜ ZÁ˜ Nü˜ €–˜ Ï˜ SĞ˜ ZØ˜ Ù˜ eø˜ ]ö˜ Té˜ ù˜ %á˜ DÊ˜ J˜˜ ´˜ Cô˜ Iù˜ @é˜ Pø˜ Pú˜ Ï˜ ^æ˜ /ò˜ [ğ˜ /¼˜ ió˜ _Í˜ )û˜ î˜ Jï˜ Aò˜ m™ ;³˜ ÷˜ 7à˜ Yø˜ ZĞ˜ ^ï˜ (™ JÆ˜ 9ä˜ .ê˜ >±˜ Cñ˜ Fô˜ ;ı˜ Jà˜ ù˜ @ş˜ gé˜ bó˜ Mø˜ rò˜ Dß˜ í˜ ¿û˜ $ê˜ 8õ˜ Nõ˜ ?û˜ Q²˜ 3à˜ Yò˜ Dù˜ X˜˜ 5¼˜ gú˜ ^ã˜ Aé˜ JÀ˜ 4×˜ G˜˜ ß˜ ^ü˜ ;é˜ )ë˜ R²˜ Kù˜ ù˜ ¡˜ Y˜˜ Sé˜ LÄ˜ Oø˜ 3ö˜ 6¼˜ -è˜ 7™ \™ &æ˜ Á˜ Vò˜ ?õ˜ R2 R3 R1 O2 O1 R4 C1 C7 C6 C4 C2 C3 C8 C9 Ben and Jerryâ€™s Deak-Perera Group. Fill It Fins Hetrick Systems Homebound Idyllwild J. S. Lee Associates Pace Paracel R.J. Matter & Associates Ra Co Amo A2Z Solutions David Spencer Ltd. Ethyl Corporation Icon LiveWire BBS and   Favourite Links Pinnacle Micro Signature U. S. Exchange ValiCert Clearout MATRIX Renegade info Crew Reuters Usability Group Screen Saver.com Talou Time Warner Benedict DCS Laboratory RFI Corporation Xilinx XVT Kool-Seal Quantum 4Xyte  Architects R&R Group Valpatken EDP Venable City Fresh Foods Harte-Hanks (formerly Locator) HCHS IBVA Icon Site Builders Target Marketing Southern Company Pacific West Enterprises Team ASA KentISP Gate A&R Partners CAM Group Scientific Atlanta Tredegar Company Pacific Sierra Research Tangent Unison Management Concepts Harvard Trust Company NACSCORP Road Warrior International Remedy Dayton Malleable Inc. Satyam Gulf and Western Industries UUmail Qwest RC Robust Code Zocalo CAF Systemhaus Stone Consolidated Corporation Karsing Tao Group Healtheon Ready-to-Run Zilog Filmotype Livermore  Laboratories (LSLI) PAP (Maintenance) Bizmarts ReviewBooth ScotGold Products Watcom International Kazinformcom Teca-Print Xentec PacificServ Satronix Tampere Salamander Junction K.C. Irving QualServe Vanstar Panngea Sifton Properties Limited SignatureFactory Valley  Solutions C & C  Design Kari & Associates Sagent Towmotor Corporation Aaron D. Meyer & Associates DCP Research United States  (USIT) Laker Airways Pacific Group Earth Home Team Caribian Specialties K International Venred Pacific Matics Patient C & J Engineering Trend Line Corporation Team Financial Management Systems Active Data Aaron Products Pacific Voice Federal Focus Tandy Corporation Soloman Brothers DCS International Onestar Zitel Zero Assumption Recovery Miles Laboratories, Inc. eDistrict Sage Sigma §˜ L¼˜ BÆ˜ 	Ç˜ 1Ô˜ L×˜ "Ú˜ $Ü˜ é˜ mê˜ ,î˜ 8î˜ R˜˜ +¼˜ Ã˜ Ù˜ <ä˜ bì˜ Fõ˜ Rù˜ 2û˜ ¼˜ `å˜ oğ˜ ,ñ˜ Vô˜ Jø˜ #ù˜  §˜ 8¼˜ kñ˜ nş˜ [ÿ˜ !ã˜ `í˜ "î˜ Vû˜ ZÁ˜ Nü˜ €–˜ Ï˜ SĞ˜ ZØ˜ Ù˜ eø˜ ]ö˜ Té˜ ù˜ %á˜ DÊ˜ J˜˜ ´˜ Cô˜ Iù˜ @é˜ Pø˜ Pú˜ Ï˜ ^æ˜ /ò˜ [ğ˜ /¼˜ ió˜ _Í˜ )û˜ î˜ Jï˜ Aò˜ m™ ;³˜ ÷˜ 7à˜ Yø˜ ZĞ˜ ^ï˜ (™ JÆ˜ 9ä˜ .ê˜ >±˜ Cñ˜ Fô˜ ;ı˜ Jà˜ ù˜ @ş˜ gé˜ bó˜ Mø˜ rò˜ Dß˜ í˜ ¿û˜ $ê˜ 8õ˜ Nõ˜ ?û˜ Q²˜ 3à˜ Yò˜ Dù˜ X˜˜ 5¼˜ gú˜ ^ã˜ Aé˜ JÀ˜ 4×˜ G˜˜ ß˜ ^ü˜ ;é˜ )ë˜ R²˜ Kù˜ ù˜ ¡˜ Y˜˜ Sé˜ LÄ˜ Oø˜ 3ö˜ 6¼˜ -è˜ 7™ \™ &æ˜ Á˜ Vò˜ ?õ˜ G2 G3 TT JL JV OE DB       816-455-8733              S3 S16 S13 S4 S14 S20 S5 S22 S12 S9 S11 S17 S1 S18 S8 ZM8 ZM5 ZM6 ZM1 ZM7 ZM9 ™   †   ˜      t   v   š      r   –      u   n   x   ›   —   ‹   p   ‘      ‚      ˆ   q   „   h   g   m   w      y   s      “   i   ƒ   |   }          	A@@‚€ ÃÀ€	A	EAA"#† ,ÇÁ1R	8CB‚
+@‰‚Â	ÊÂB	CJLCC	ƒCUÎÃƒ	D 1ID	„„D^ÏÄDú	E	QEE	Š…E,ÒÅ…fF,GF†Š†F 1ÓÆ	G	MGG”‡G@ÕÇÇ fH!fKHH""1—ˆHò#ØÈH$f	I"%bYII&& 1‡‰	$'	ÊÉI(@
+Ê)	AJJ* 1‡Š
++fÄÊJ,JK-JZKK.’‹‹ô/`ÎËËø0@Ì1@GLÌ$2J›ŒL3 bÚÌL&4   5TMM6	˜M7fÁÍM"89	\NN: 1•;	İÎN"<	O=	\OO> 1‡? ĞÏO@fPA 1IPB J™PC	İĞPD@	ÑE	VQQ"F	‘Q"G@ÒÑÑH	RI0RRÒJ	”’RK bŞÒR"L	SM	ESS"N‡““Of×ÓSP    Q	_TTR	œ”T"SfÜÔTT	U"U@UUÕV@“•ÕW	ÊÕUX VYU`V–(Z 1•–V[UàÖ–\	W]iaW^	„—W_Ö×W`	Xa	MXXb	…˜Xc	ÁØXd	Ye\YYf q‘™Yòg1×ÙYòh	Zi @Z j	šZk	ÑÚZl	[m bb[[&n	›[oÊÛ[pf#\q	d\\"r	ˆœ\sÊÜ\tf]u	K]]v@•İw`àİİøxUy	]^^"z	–^"{0ÇŞŞ|f%_"}fW__~fœŸ_fİß_€f `@S`à

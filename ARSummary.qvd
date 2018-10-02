@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>12451</QvBuildNo>
+   <CreatorDoc>D:\GDrive\_Gorilla Insights\Developer\Solutions\Store datamodel snapshot\Store datamodel snapshot.qvw</CreatorDoc>
+   <CreateUtcTime>2014-12-25 21:24:11</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>ARSummary</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>CustKeyAR</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>73</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>365</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$key</String>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ARGross</FieldName>
+       <BitOffset>28</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>73</NoOfSymbols>
+       <Offset>365</Offset>
+       <Length>653</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>AROpen</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>60</NoOfSymbols>
+       <Offset>1018</Offset>
+       <Length>532</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ARCurrent</FieldName>
+       <BitOffset>16</BitOffset>
+       <BitWidth>6</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>45</NoOfSymbols>
+       <Offset>1550</Offset>
+       <Length>401</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>AR1-30</FieldName>
+       <BitOffset>22</BitOffset>
+       <BitWidth>6</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>40</NoOfSymbols>
+       <Offset>1951</Offset>
+       <Length>356</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>AR31-60</FieldName>
+       <BitOffset>49</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>21</NoOfSymbols>
+       <Offset>2307</Offset>
+       <Length>185</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>AR60+</FieldName>
+       <BitOffset>54</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>29</NoOfSymbols>
+       <Offset>2492</Offset>
+       <Length>249</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ARCredit</FieldName>
+       <BitOffset>59</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>29</NoOfSymbols>
+       <Offset>2741</Offset>
+       <Length>189</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ARSalesPerDay</FieldName>
+       <BitOffset>35</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>69</NoOfSymbols>
+       <Offset>2930</Offset>
+       <Length>617</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ARAvgBal</FieldName>
+       <BitOffset>42</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>14</nDec>
+         <UseThou>1</UseThou>
+         <Fmt>##############</Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>70</NoOfSymbols>
+       <Offset>3547</Offset>
+       <Length>626</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>8</RecordByteSize>
+   <NoOfRecords>73</NoOfRecords>
+   <Offset>4173</Offset>
+   <Length>584</Length>
+   <Lineage>
+     <LineageInfo>
+       <Discriminator>D:\GDrive\_Gorilla Insights\Developer\Solutions\Store datamodel snapshot\executive dashboard.qvw</Discriminator>
+       <Statement>Binary</Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ARSummary.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\AccountGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\AccountMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Accounts.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Budget.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Calendar.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ChannelMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerAddressMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerMap.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\CustomerMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\Expenses.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\FactTable.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\HistoryFlag.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\InventoryBalances.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ItemBranchMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ItemMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductSubGroupMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\ProductTypeMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+     <LineageInfo>
+       <Discriminator>STORE - [Data\TempQVDStorage\Step 1\SalesRepMaster.qvd]</Discriminator>
+       <Statement></Statement>
+     </LineageInfo>
+   </Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+    „z »p <T ]  54  P  ®   >   ß7  *   í  34  ¨/  ë ¨  ¼  jÛ  Ô[ ‘† … •l    µü  {  O   q  & “  ´  Ù     ¼ 1°  7   š† ı  Yn LÂ  1   ã  Î  44  ‡@ z…  `     QŒ    ÆH  ¸  R† T  ”   y  } ‰    ñ    ¶  ·[ L  ;P    jD Æ  Ş  ¢ 24  ò   z  A`åĞ"–´@mÅş²{	¨@    ‚ÅqŞ½@ğH‚p@÷—İ“úäA­‹Û( ¡$AÍÌÌÌŒ)­@S£’boÙ@ö_˜¶ñ@rŠäàÜA‰cîræ@|a2Upz¦@a¡Ö4©ó@H¿}5fì@ôıÔx©È@>yX¨5§—@Ú|aBåÌ@    @+½@<,Ôšf|@9EGrùÏ*@–²q,‘°@ûËîi&Ø@Åş²{âüÏ@¨ÆK7™{ñ@cÙ=yÜh@aÃÓŸA4€·@MJ ANóS”/ê@{®G	ÑáÀyé&1&‚@,ÔšæI¯à@&1¬ähü@ì<,Ô¼Â@%uš8ğAôıÔxcÔ@áz®G¹P@gÕçj£¸Ô@Ï÷Sã0^AÍ]KÈÛ*A ‰°áé­i@cîZB~A¼@Zd;ßËo@~û:ÔAa¡Ö4ï~”@é·¯g?@4€·@°»ù@ÊTÁ¨—ğAçû©ñÒ¹ @jMóNõ¥@gÕçj«Ú½@KÈ=›z@#J{ƒÿáÕ@,eâªÌ@*•Ô9éÏ@¹ü‡ô¥ç@¢E¶óyõé@›æ§èè@­‹ÛhæÏò@a¡Ö4/¹@~®¶b!Èû@Òo_çz¸@û:pÎˆ˜©@~®¶bnÀôÛ×{°ï@TR' ÎAR£’º7Ë@=,Ôš,ó@û:pÎÈë¿@Ö4ï8Ewe@1*©PÌ‘@£’:e@˜ÿ~<ç@¬Zd;ß>À    BÏfÕçz\ÀÂ¨¤NPÙ×@-Cë¢;Ğ@·Ñ ^–@ÎªÏÕÖH—@vàœÅ@˜ÿ~[œÎ@<ßO·¹´@J+‡6TÀ:’Ë­Ğ@‡§WÊr…Å@R¸…ë£@?ÆÜ5s–@¢´7øÂC¢@Ş“‡…ZÖˆ@>  ÌH¿}íO@mçû©ñÏ±@–C‹lçÆ¨@[d;ßÏ@/İ$’*î@O¯”ôÁ@gffffæl@;M„©@eª`T
+¨Ò@—z67y@Ò‘\ş·Èç@Kê4Qõ @‹äòŸ@·@%—ÿ½å@İFxkÓ·@¬Zd›5@ ‘~û:¬‘ÀOÑ‘\hAü:pÎˆö`ÀÁÊ¡EÀ9÷@èû©ñÒ¹ @œ3¢´7í‚@;pÎˆÒ"‚@?Æœl«@x$¨Å¯@J{ƒ/Œáµ@×Åm4 #Ÿ@fˆc]ìóÄ@*©ĞD84Àİ$UéÔ@²¿ì<Dt@Zd;?òÀ@]şCúmé£@£#¹ü‡_†@Â†§WÊ¸pÀøäa¡Vb©@ìQ¸ŞšAÀ[ Ad@Y·ÑĞ×Ü@+•Ô	 `@´Yõ¹ÚºX@\ Añc<BÀ    œUŸ«åKÚ@®Gázh“@ö—İ“‡’@åƒÍêo«@X9´ÈÆWÀ@vqXÑ@é·¯µµ@®Ø_vOÀr@í/»'OÃ@f÷äa¡¨¸@;M„‚@ÌH¿}íO@›wœ¢#(¤@”‡…ZÓˆ›@[d;ßÏ@x$(²Së@O¯”ôÁ@3Ä±.î§@eª`T
+¨Ò@µ¦yßa@1¬N˜á@¥N@a@VŸ«­Ü¿â@_ºIâ¿@_˜LŒ’`@jMóÚ AI¿}Õó@œ3¢´7í‚@;pÎˆÒ"‚@ÚÎ÷Sch¯@dÌ]KHß—@ç§èHF¡@ï8EG2şÄ@HázÑ@ /İ$)@‹äò?¦Á@$(~LB¤@46<‰‡@Wì/»'ø«@ÌH¿•ëú@	Šcî:L@ÛŠıe7ÔÍ@+•Ô	 `@"ıöuàLK@    ĞfÕçª”£Àµ¦yÇ‰g@…|Ğ³Yop@€Ù=yXH€@gDioğb“@6<½Rh§À“:M„ioÀÀ[ AñÍwÀaåĞ"›
+¦@R¸…ë‘¤@à¾œ3³@HPüãF@ŒJê4Mk@~®¶bï@—ÿ~û–@¾0™*G‡@}Ğ³YõIn@¥ß¾œ«v@q¬‹ÛØË@ØòAÏ"`@_)ËÇUŒ@à- OœÀ¿Ÿ/ @…|Ğ³Yy‡À7«>W—İá@À[ AÁË@+‡ÙÎïS@ŒJê4QG@µ¦yÇ©Ä @¸¯çŒLkÀ¬Zd;Òª@İFx|s@ºk	ù 7FÀ%•C›BÀçŒ(í-sÀ¸@‚âÇ tÀ$(~&Jğ@ÊÃB­i‚œ@×£p=jÛË@¬Zd;ß>À    Âõ(¬Í@tµû‹+¢À5^ºIL°@ësµû·q@ÑDØğ4b¯@UR' ‰YÀdÌ]KÈ“À…ëQ¸NJ@ËÇº¸M7@ÓMb¸Õµ@I¿}8×CÀù1æ®%<ÀZõ¹ÚŠ…XÀ43333s_@ Òo_‡ñ¢@ÌÇº¸šŸ@AaÃÓ‹4À€H¿}¸%ÀF¶óıÔ(F@    BÏfÕçz\À•ö_˜ kÀˆôÛ×’@£’:œƒ@ÎªÏÕV,*À¨WÊ2Db²@xÿÿÿ‘~û:pfz@	ŠcnbŸ@>  ­‹Ûh t@gffffæl@8gDi3@h"lxú/—@zÇ):R)·@€H¿}.wÀÍÌÌÌÌÄŸÀ{¥,Ck)ÀRI€&ÂY@ü:pÎˆö`À33333³RÀÄ±.n£½qÀÙ_vOÍª@×£p=ÒWÀ*©ĞD84À¹ğ€vÀ+‡©C@\ Añc<BÀö	  ×£p=ê™Ğ@\Âõ¨?µ@hB  8Ç  ¨  4!  ¸…ëQç§@ü  L	  áz®G=…@ì  ˜   \Âõ¨º@œc  Ø'  H  Ğ„  q=
+×£š@|.  ®GázÔÊ@¤  \Âõ¨ë³@ö(\ºó@\Âõ¨‹¾@q=
+×£>•@ş   5  _)ËÇZ7Àµ¦yÇ)z/@ùÂdª`TÚ?+©ĞDhG@à- ø1ö?ğHP‡@•Ô	hŞ”@ /İ$)@,eâXOV@ÿ²{ò°¸j@âX·Qö›@G”ö_`^@*:’ËHç?Hrùéëf@¦,CëÂZ@·bÙ=™I@L¦
+F%µ @—nƒ`R@zX¨5ÍÛ5@    Õ	h"l˜0@^KÈ=ÛR@,ö—İ“÷J@¿œ3¢$m@(í¾0ñ?¹ü‡ôÛÏ‰@s×òAuu@œÄ °rpZ@Ù_vOæ¿ôSt$T@³ï§Æ#o@HPü3<@ÿ!ıöuœr@NóStdF@rà-ğJ@ÏˆÒŞàá{@:’ËH!ˆ@à- ø1Æ?ìÀ9#JÛ:@½ãÉå@/İ$†ë“@óÒo_@Ãõ(\Âµ?Š°áé•Rr@ëâ6Àï{@€·@‚âÇ$@µ¦yÇ)º"@Eioğ…é7@Ò‘\şCÊB@nÅş²{RC@×£p=ZH@ÓŞà“A]@*ËÇºe@Õxé&1@2w-!v@‡ÙÎ÷³3@C>èÙ¬Xz@5€·@‚‚:@éÙ¬ú\­(@`vOª&@vqàj@âX·Qÿ’@NóStŒP@ê•²q¨t@ "ıöu /@jMóStÄ?pğ…ÉTÁ@óÒo_Î?¶„|Ğ³©^@Í;NÑ1È³@×£p=
+~@    DúíëÀ3”@§yÇ):‚`@õJY†pƒÚ@D‹lç[uß@^ºI@§èH®¬@x$(^†Ú@lxz¥€«ç@Gxd)³@ÓMbX™8@jMóŞxÓ@“©‚QáˆĞ@èj+öW®¥@¯%äƒ‘x@…ëQ˜¾@é·¯ç¢@gffff¢Œ@à- 6@=,Ôš¦Ò°@•C‹lk§@7À[àˆ³@?ÆH@LÈ=)ã@XÊ2Äñ‰²@ÁÊ¡E¶ë©@rŠäò˜Š@"ıöu !¨@úé·QÔ@( ‰°á^Ÿ@s×Vùé@'Â†§Wà™@İµ„|À«Ã@âX·å¹é@;’ËØÀË@Tt$—ÿ-@¶„|Ğ³Or@Ñ³Yõ¹R@`Î·HAƒâÇ˜»¶Z@µ¦yG @&äƒ­É@S£’"?â@ó°PkM–@~Œ¹k	‘r@“©‚QIT@hDioğéd@‡8ÖÅ­î¤@ĞDØğôï•@¹ğ¶Ô°@[B>è™å£@6<½Rö·Å@b2U0*¡f@ë4>Ô@ª‚QI]Ñ£@œ3¢t'Í@`vOÖ™¡@·@‚â7\@*:’Ëâv@HPüÓk°@Y·ÑsoA¥ß¾i­@Ò ŞñbØ@jMóS:{@ØsF”¶#@ù g³ê;]@3U0*©sBÀyX¨5MÖ¢@            0B @  AP((‚`0Ãp80@ †8	E‘H$Â@
+†¡P(I	Ç±X,0
+Â`0PIÒh4H	
+àp8‚Y€òx<Â	À@b ‰DJjK#‘H 0™L‚ @™pP¡Pxc©T€Îs±X€€¹\ˆ Á`¤ÉdÌ2°Ñhˆ ÀÙl Ğ™X àáp˜Rôét   òx!”ú|"Õ$P«#5
+…’‹$ @š°% P‰Ô&Wel' ˜u"‘ (!À…*•B) 2™*"¦:š,+#Z¶B¡Ü, ÀJ¥ˆ- ĞR© .$ àZ­/%›öb±^½0&  kµ Å1's¹02( {½°3 0›Àˆ4)ÀFƒÅÂÍ5*W‹É6+_g“Í"7, w›Ñh8-!€£Õ$ 9. «ÙBÖ:/â§³İ;0#¸»áˆ<1$ÀÃå‚Ş=2eØËé0>3¦èÓíà?4ÀøÛñÂn@5'	äõ&A6hìùhB7©)ôıC8ê9ü0D @E P
+F9+`PG:,p)H; €$o
